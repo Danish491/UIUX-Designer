@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danish</h1>
-<h3 align="center">Senior UI/UX Designer | Figma Pro | Responsive Web & App Designs</h3>
+<h3 align="center">Senior UI/UX Designer | Figma Pro | Responsive Web & App Designer</h3>
 
 - 🔭 I’m currently working on [CAT Tool](https://www.smartcat.com/)
 
